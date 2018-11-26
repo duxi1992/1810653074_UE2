@@ -5,10 +5,11 @@ import static javax.swing.JOptionPane.*;
 public class Aufgabe3_1810653074
 {
     public static void main (String [] args){
-        int alter;
+     /*   int alter;
         double alter;
 
       String eingabe;
+
       eingabe = JOptionPane.showInputDialog("Eingabe");
 
 
@@ -46,6 +47,7 @@ public class Aufgabe3_1810653074
 
         String.valueOf(alter);
         System.out.println(alter);
+        */
     }
 
 
