@@ -22,6 +22,7 @@ public class Aufgabe5_1810653074 {
         }
     }
 
+
     public static void whileschleife(int a)
     {
         //a gibt die Anzahl der durchzuführenden Schleifen an
